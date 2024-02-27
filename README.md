@@ -44,7 +44,7 @@ Using the DL model predict for some random inputs.
 
 ## PROGRAM
 
-### Name: DEEPAK RAK S
+### Name: DEEPAK RAJ S
 ### Register Number: 212222240023
 
 ```python
