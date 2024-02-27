@@ -13,7 +13,8 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
-![image](https://github.com/DEEPAK2200233/nn-classification/assets/118707676/162b9482-ac0b-4662-8714-508214da0733)
+![1](https://github.com/Sriram8452/nn-classification/assets/118708032/740b646c-6d10-4a5e-9105-11c9c544e831)
+
 
 ## DESIGN STEPS
 
@@ -255,26 +256,31 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-![image](https://github.com/DEEPAK2200233/nn-classification/assets/118707676/70099baf-0964-4bdc-8009-cf512d33639a)
+![2](https://github.com/Sriram8452/nn-classification/assets/118708032/03317154-2ddc-48a2-9f1b-8cf1d883d099)
+
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/DEEPAK2200233/nn-classification/assets/118707676/f8007106-042b-4d35-922d-6bcc7d7bdfff)
+![3](https://github.com/Sriram8452/nn-classification/assets/118708032/c127e510-2f26-4eb2-b6f5-eea14e380eea)
+
 
 
 ### Classification Report
 
-![image](https://github.com/DEEPAK2200233/nn-classification/assets/118707676/11ed45a5-ddd7-4b9e-be11-53f837bde832)
+![4](https://github.com/Sriram8452/nn-classification/assets/118708032/c56ff24b-e709-4067-b493-68c0a0483dd2)
+
 
 
 ### Confusion Matrix
 
-![image](https://github.com/DEEPAK2200233/nn-classification/assets/118707676/146bb3d7-1b10-46b7-9a59-2b6e2bf28158)
+![5](https://github.com/Sriram8452/nn-classification/assets/118708032/953e5c03-ab3f-4ede-9ddd-5fe2845b4193)
+
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/DEEPAK2200233/nn-classification/assets/118707676/dfd00c08-4471-4b54-be24-434a5748bb03)
+![6](https://github.com/Sriram8452/nn-classification/assets/118708032/b86d4d73-9788-4fa7-b6ae-eef8bdb372d3)
+
 
 
 ## RESULT
